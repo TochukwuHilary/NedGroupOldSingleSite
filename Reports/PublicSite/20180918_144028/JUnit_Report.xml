@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="PublicSite" time="77" tests="1" failures="0" errors="0">
+   <testsuite name="PublicSite" tests="1" failures="0" errors="0" time="77" timestamp="2018-09-18 14:40:31" hostname="hilary - Hilary.newmedialabs.local" id="Test Suites/PublicSite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\hilary.NEWMEDIALABS\\git\\NedGroupOldSingleSite\\Reports\\PublicSite\\20180918_144028"/>
+         <property name="logFiles" value="C:\\Users\\hilary.NEWMEDIALABS\\git\\NedGroupOldSingleSite\\Reports\\PublicSite\\20180918_144028\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="hilary - Hilary.newmedialabs.local"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.7.1.1"/>
+         <property name="browser" value="Chrome 67.0.3396.99"/>
+         <property name="hostAddress" value="192.168.10.136"/>
+         <property name="sessionId" value="b85e7d7572574f8c59c08fc9afd3ee68"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Public Site/Home Page/Footer/SearchEngine" classname="Test Cases/Public Site/Home Page/Footer/SearchEngine" status="PASSED">
+         <system-out><![CDATA[2018-09-18 14:40:32 - [TEST_CASE][PASSED] - Test Cases/Public Site/Home Page/Footer/SearchEngine: Test Cases/Public Site/Home Page/Footer/SearchEngine
+
+2018-09-18 14:40:32 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-09-18 14:40:37 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-09-18 14:40:37 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://www.nedgroupinvestments.co.za/' successfully
+
+2018-09-18 14:41:01 - [MESSAGE][PASSED] - Navigate to 'http://www.nedgroupinvestments.co.za/' successfully
+
+2018-09-18 14:41:01 - [TEST_STEP][PASSED] - setText: Text 'money' is set on object 'Object Repository/Page_Nedgroup Investments  Home/input_Search_q'
+
+2018-09-18 14:41:02 - [MESSAGE][PASSED] - Text 'money' is set on object 'Object Repository/Page_Nedgroup Investments  Home/input_Search_q'
+
+2018-09-18 14:41:02 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Nedgroup Investments  Home/input_Search_search-btn-footer' is clicked on
+
+2018-09-18 14:41:48 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Nedgroup Investments  Home/input_Search_search-btn-footer' is clicked on
+
+2018-09-18 14:41:48 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-09-18 14:41:48 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-09-18 14:40:31 - [TEST_SUITE][PASSED] - PublicSite: Test Cases/Public Site/Home Page/Footer/SearchEngine]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

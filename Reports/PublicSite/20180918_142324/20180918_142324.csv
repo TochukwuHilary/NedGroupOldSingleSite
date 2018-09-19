@@ -1,0 +1,19 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+PublicSite,Firefox 61.0,,2018-09-18 14:23:27,2018-09-18 14:25:23,1m - 56.255s,FAILED
+,,,,,,
+Test Cases/Public Site/Home Page/Footer/FooterLinks,Firefox 61.0,,2018-09-18 14:23:28,2018-09-18 14:24:50,1m - 22.066s,FAILED
+openBrowser,Firefox 61.0,,2018-09-18 14:23:28,2018-09-18 14:23:35,6.692s,PASSED
+navigateToUrl,Firefox 61.0,,2018-09-18 14:23:35,2018-09-18 14:24:00,24.913s,PASSED
+click,Firefox 61.0,,2018-09-18 14:24:00,2018-09-18 14:24:01,0.772s,PASSED
+navigateToUrl,Firefox 61.0,,2018-09-18 14:24:01,2018-09-18 14:24:13,11.932s,PASSED
+click,Firefox 61.0,,2018-09-18 14:24:13,2018-09-18 14:24:50,37.295s,FAILED
+,,,,,,
+Test Cases/Public Site/Home Page/Footer/SearchEngine,Firefox 61.0,,2018-09-18 14:24:50,2018-09-18 14:25:23,33.253s,PASSED
+openBrowser,Firefox 61.0,,2018-09-18 14:24:50,2018-09-18 14:24:54,3.750s,PASSED
+navigateToUrl,Firefox 61.0,,2018-09-18 14:24:54,2018-09-18 14:25:17,23.361s,PASSED
+setText,Firefox 61.0,,2018-09-18 14:25:17,2018-09-18 14:25:17,0.124s,PASSED
+click,Firefox 61.0,,2018-09-18 14:25:17,2018-09-18 14:25:23,5.293s,PASSED
+closeBrowser,Firefox 61.0,,2018-09-18 14:25:23,2018-09-18 14:25:23,0.334s,PASSED
+,,,,,,
+Test Cases/Public Site/Home Page/Footer/SocialMediaLinks,Firefox 61.0,,2018-09-18 14:25:23,2018-09-18 14:25:23,0.136s,PASSED
+Statement - return null,Firefox 61.0,,2018-09-18 14:25:23,2018-09-18 14:25:23,0.001s,PASSED

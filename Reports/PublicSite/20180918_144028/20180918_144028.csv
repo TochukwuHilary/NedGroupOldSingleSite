@@ -1,0 +1,9 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+PublicSite,Chrome 67.0.3396.99,,2018-09-18 14:40:31,2018-09-18 14:41:48,1m - 17.491s,PASSED
+,,,,,,
+Test Cases/Public Site/Home Page/Footer/SearchEngine,Chrome 67.0.3396.99,,2018-09-18 14:40:32,2018-09-18 14:41:48,1m - 16.882s,PASSED
+openBrowser,Chrome 67.0.3396.99,,2018-09-18 14:40:32,2018-09-18 14:40:37,5.211s,PASSED
+navigateToUrl,Chrome 67.0.3396.99,,2018-09-18 14:40:37,2018-09-18 14:41:01,23.854s,PASSED
+setText,Chrome 67.0.3396.99,,2018-09-18 14:41:01,2018-09-18 14:41:02,0.500s,PASSED
+click,Chrome 67.0.3396.99,,2018-09-18 14:41:02,2018-09-18 14:41:48,45.917s,PASSED
+closeBrowser,Chrome 67.0.3396.99,,2018-09-18 14:41:48,2018-09-18 14:41:48,0.811s,PASSED

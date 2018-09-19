@@ -1,0 +1,17 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+PublicSite,Chrome 67.0.3396.99,,2018-09-18 14:24:10,2018-09-18 14:26:09,1m - 58.118s,FAILED
+,,,,,,
+Test Cases/Public Site/Home Page/Footer/FooterLinks,Chrome 67.0.3396.99,,2018-09-18 14:24:12,2018-09-18 14:24:46,34.039s,FAILED
+openBrowser,Chrome 67.0.3396.99,,2018-09-18 14:24:13,2018-09-18 14:24:21,7.965s,PASSED
+navigateToUrl,Chrome 67.0.3396.99,,2018-09-18 14:24:21,2018-09-18 14:24:45,23.921s,PASSED
+click,Chrome 67.0.3396.99,,2018-09-18 14:24:45,2018-09-18 14:24:46,0.885s,FAILED
+,,,,,,
+Test Cases/Public Site/Home Page/Footer/SearchEngine,Chrome 67.0.3396.99,,2018-09-18 14:24:46,2018-09-18 14:26:08,1m - 22.410s,PASSED
+openBrowser,Chrome 67.0.3396.99,,2018-09-18 14:24:47,2018-09-18 14:24:50,3.562s,PASSED
+navigateToUrl,Chrome 67.0.3396.99,,2018-09-18 14:24:50,2018-09-18 14:25:16,25.710s,PASSED
+setText,Chrome 67.0.3396.99,,2018-09-18 14:25:16,2018-09-18 14:25:16,0.298s,PASSED
+click,Chrome 67.0.3396.99,,2018-09-18 14:25:16,2018-09-18 14:26:07,51.276s,PASSED
+closeBrowser,Chrome 67.0.3396.99,,2018-09-18 14:26:07,2018-09-18 14:26:08,0.868s,PASSED
+,,,,,,
+Test Cases/Public Site/Home Page/Footer/SocialMediaLinks,Chrome 67.0.3396.99,,2018-09-18 14:26:08,2018-09-18 14:26:09,0.277s,PASSED
+Statement - return null,Chrome 67.0.3396.99,,2018-09-18 14:26:09,2018-09-18 14:26:09,0.000s,PASSED
